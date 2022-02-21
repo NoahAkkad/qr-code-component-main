@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot desktop.png)
-![](./images/Screenshot mobile.png)
+![](./Screenshot desktop.jpg)
+![](./Screenshot mobile.jpg)
 
 ### Links
 
